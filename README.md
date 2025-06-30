@@ -23,3 +23,6 @@ How to organize code using functions, global variables, and event-driven program
 Basic debugging, testing, and UI layout alignment.
 How to use GitHub for version control and open-source contribution.
 This task helped me build confidence in writing Python code for real-time applications and gave me a strong understanding of how to combine logic and GUI design. I'm proud to include this project as part of my internship portfolio with StaxTech and excited to continue learning and developing more advanced applications.
+
+# Otput
+![Image](https://github.com/user-attachments/assets/08f0860f-8bb9-4d93-900a-2be9bfd31542)
